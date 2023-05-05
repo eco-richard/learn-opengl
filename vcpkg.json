@@ -1,0 +1,8 @@
+{
+  "name": "learn-opengl",
+  "version": "0.1.0",
+  "dependencies": [
+    "glad",
+    "glfw3"
+  ]
+}
